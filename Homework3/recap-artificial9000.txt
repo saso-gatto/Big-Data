@@ -1,0 +1,76 @@
+G068HW3 
+9 0 2
+Input size n = 20
+Number of centers k = 9
+Number of outliers z = 0
+Initial guess = 13.810213113851649
+Final guess = 13.810213113851649
+Number of guesses = 1
+Time Round 1: 122.98989295959473 ms
+Time Round 2: 0.4909038543701172 ms
+Objective function =  82.27389995010569
+Time to compute objective function:  400.19798278808594  ms
+
+old-G068HW3 
+9 0 2
+Input size n =  20
+Number of centers k =  9
+Number of outliers z =  0
+Initial guess =  13.810213113851649
+Final guess =  13.810213113851649
+Number of guesses =  1
+Time Round 1:  0.7390975952148438  ms
+Time Round 2:  139.68491554260254  ms
+Objective function =  82.27389995010569
+Time to compute objective function:  338.90724182128906  ms
+
+G068H3
+9 200 2
+Input size n = 420
+Number of centers k = 9
+Number of outliers z = 200
+Initial guess = 1.991369189778731
+Final guess = 1.991369189778731
+Number of guesses = 1
+Time Round 1: 1057.589054107666 ms
+Time Round 2: 200.1500129699707 ms
+Objective function =  13.51563957051238
+Time to compute objective function:  427.08802223205566  ms
+
+old-G068H3
+Input size n =  420                                                             
+Number of centers k =  9
+Number of outliers z =  200
+Initial guess =  1.991369189778731
+Final guess =  1.991369189778731
+Number of guesses =  1
+Time Round 1:  0.7975101470947266  ms
+Time Round 2:  1291.8596267700195  ms
+Objective function =  13.51563957051238
+Time to compute objective function:  432.01136589050293  ms
+
+G068HW3
+9 300 2
+Input size n = 620
+Number of centers k = 9
+Number of outliers z = 300
+Initial guess = 1.4908806960987868
+Final guess = 1.4908806960987868
+Number of guesses = 1
+Time Round 1: 1578.6173343658447 ms
+Time Round 2: 469.8524475097656 ms
+Objective function =  11.677196795464226
+Time to compute objective function:  390.71083068847656  ms
+
+old-G068HW3
+9 300 2
+Input size n =  620                                                             
+Number of centers k =  9
+Number of outliers z =  300
+Initial guess =  1.4908806960987868
+Final guess =  1.4908806960987868
+Number of guesses =  1
+Time Round 1:  0.7109642028808594  ms
+Time Round 2:  2121.546745300293  ms
+Objective function =  11.677196795464226
+Time to compute objective function:  410.5267524719238  ms
